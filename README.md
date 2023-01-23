@@ -13,9 +13,10 @@
 
 ## Deployed link 👇  
 
-[Link] (https://boatlifestyle-clone.netlify.app/)
+ 
+ <a href="[https://www.google.com/](https://boatlifestyle-clone.netlify.app/)" target="_blank">Link</a>
 
-1. Clone the project and install the required packages with `npm install`
+
 
 <br>
 
