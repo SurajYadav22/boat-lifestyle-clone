@@ -1,10 +1,13 @@
-# boat-lifestyle-clone
+# boat-lifestyle-clone (MERN STACK)
 
 ## Libraries Used 🌟
 
-1. Styled-Components
-2. Axios
-3. ReactJS
+- ReactJS
+- Express js
+- Node js
+- Mongo DB
+- Styled-Components
+- Axios
 
 <br>
 
