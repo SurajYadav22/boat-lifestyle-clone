@@ -11,7 +11,9 @@
 
 <br>
 
-## How to run the Project 🤖
+## Deployed link 👇  
+
+[Link] (https://boatlifestyle-clone.netlify.app/)
 
 1. Clone the project and install the required packages with `npm install`
 
