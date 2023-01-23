@@ -14,7 +14,7 @@
 ## Deployed link 👇  
 
  
- <a href="https://boatlifestyle-clone.netlify.app" target="_blank">Link</a><span>https://boatlifestyle-clone.netlify.app<span>
+ <a href="https://boatlifestyle-clone.netlify.app" target="_blank">Link</a> 👉 <span>https://boatlifestyle-clone.netlify.app<span>
 
 
 
