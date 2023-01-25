@@ -23,7 +23,8 @@
 ## Snapshots 📷
 
 - Landing Page (Home Page):
-  ![Screenshot (2064)](https://user-images.githubusercontent.com/108898197/213984308-c8a2761b-7000-45c1-97f1-b87dd7187732.png)
+  ![Screenshot (2076)](https://user-images.githubusercontent.com/108898197/214494579-8de7bdfe-0677-441b-91b8-ac59bd976e4f.png)
+
 
 - Champions Page:
   ![Screenshot (2065)](https://user-images.githubusercontent.com/108898197/213984557-ebbb783c-bac6-4d4d-ac48-98aceb6394b2.png)
