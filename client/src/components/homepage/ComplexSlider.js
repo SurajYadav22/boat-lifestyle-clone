@@ -14,11 +14,12 @@ const Container = styled.div`
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
-    width: 70%;
+    width: 80%;
     margin: auto;
     justify-content: space-between;
     height: 40px;
     align-items: center;
+    // border: 2px solid red;
   }
 
   .category > span {
@@ -31,6 +32,7 @@ const Container = styled.div`
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     cursor: pointer;
+    // border: 2px solid green;
   }
 
   .category > span:nth-child(1) {

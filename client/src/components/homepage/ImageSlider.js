@@ -4,28 +4,30 @@ import img2 from "../../assets/slider-img-2.png";
 import img3 from "../../assets/slider-img-3.png";
 import img4 from "../../assets/slider-img-4.png";
 import img5 from "../../assets/slider-img-5.png";
+import img6 from "../../assets/slider-img-6.png";
 
 const images = [
-    { url: img1 },
-    { url: img2 },
-    { url: img3 },
-    { url: img4 },
-    { url: img5 },
+  { url: img6 },
+  { url: img1 },
+  { url: img2 },
+  { url: img3 },
+  { url: img4 },
+  { url: img5 },
 ];
 
 export const ImageSlider = () => {
-    return (
-        <div>
-            <SimpleImageSlider
-                width={"100%"}
-                height={"90vh"}
-                images={images}
-                showBullets={false}
-                showNavs={true}
-                style={{ cursor: "pointer" }}
-                navSize={60}
-                navMargin={20}
-            />
-        </div>
-    );
+  return (
+    <div>
+      <SimpleImageSlider
+        width={"100%"}
+        height={"90vh"}
+        images={images}
+        showBullets={false}
+        showNavs={true}
+        style={{ cursor: "pointer" }}
+        navSize={60}
+        navMargin={20}
+      />
+    </div>
+  );
 };

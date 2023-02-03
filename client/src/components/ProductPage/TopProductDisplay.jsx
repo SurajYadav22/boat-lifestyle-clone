@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import tick from "./Images/VectorTick.png";
 import { useParams } from "react-router";
 import axios from "axios";
+import { Link } from "react-router-dom";
 
 const Container = styled.div`
   height: 600px;
@@ -442,7 +443,9 @@ export default function TopProductDisplay() {
         <button className="addToCart" onClick={addToCart}>
           {btn}
         </button>
-        <button className="buyItNow">BUY IT NOW</button>
+        <button className="buyItNow">
+          <Link to="/cart">BUY IT NOW</Link>
+        </button>
       </div>
       <div className="warranty"></div>
       <img className="warrantyImage" src={warranty} alt="warranty" />
