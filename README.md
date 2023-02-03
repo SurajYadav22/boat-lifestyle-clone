@@ -1,28 +1,39 @@
-# boat-lifestyle-clone
+# boat-lifestyle-clone (MERN STACK)
 
 ## Libraries Used 🌟
 
-1. Styled-Components
-2. Axios
-3. ReactJS
+- ReactJS
+- Express js
+- Node js
+- Mongo DB
+- Styled-Components
+- Axios
 
 <br>
 
-## How to run the Project 🤖
+## Deployed link 👇
 
-1. Clone the project and install the required packages with `npm install`
+<a href="https://boatlifestyle-clone.netlify.app" target="_blank">Link</a> 👉 <span>https://boatlifestyle-clone.netlify.app<span>
 
 <br>
 
 ## Snapshots 📷
 
 - Landing Page (Home Page):
-  ![Home Page](https://user-images.githubusercontent.com/35700009/138110802-fca0ecb0-968b-40ad-9b08-581a423262f8.png)
+  ![Screenshot (2076)](https://user-images.githubusercontent.com/108898197/214494579-8de7bdfe-0677-441b-91b8-ac59bd976e4f.png)
 
 - Champions Page:
-  ![Category Page](https://user-images.githubusercontent.com/35700009/138111008-c3e05fd9-3210-40c3-a3b7-373168ab63be.png)
+  ![Screenshot (2065)](https://user-images.githubusercontent.com/108898197/213984557-ebbb783c-bac6-4d4d-ac48-98aceb6394b2.png)
+
+- Products Page:
+  ![Screenshot (2066)](https://user-images.githubusercontent.com/108898197/213984656-b3c47d45-4c31-4638-8f25-78d1ac9a509e.png)
 
 - Product Details Page:
-  ![Product Page](https://user-images.githubusercontent.com/35700009/138111102-5514f298-cd7b-43e3-a332-320a037d8a76.png)
+  ![Screenshot (2068)](https://user-images.githubusercontent.com/108898197/213984696-626d8591-5bd6-4b9a-8f0a-9985df366106.png)
+
+- Footer
+  ![Screenshot (2067)](https://user-images.githubusercontent.com/108898197/213984752-5cdbe678-098a-46c8-8ffd-3980bebe9210.png)
 
 <br>
+
+Thank you!
