@@ -273,6 +273,7 @@ export function Login() {
       if (data[i].email === email && data[i].password === pass) {
         cred = true;
         localStorage.setItem("id", data[i]._id);
+        sessionStorage.setItem("id", data[i]._id);
         break;
       }
     }

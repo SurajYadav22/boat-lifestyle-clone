@@ -12,6 +12,7 @@ import { Navbar } from "../components/navbar/Navbar";
 import { Success } from "../components/Success";
 import Cart from "../components/Cart/Cart";
 import { Payment } from "../components/Payment";
+import PrivateRoute from "./PrivateRoute";
 
 export function Routes() {
   return (
@@ -48,7 +49,9 @@ export function Routes() {
 
       <Route path="/cart">
         <Navbar />
-        <Cart />
+        <PrivateRoute>
+          <Cart />
+        </PrivateRoute>
       </Route>
 
       <Route path="/payment">
